@@ -1,0 +1,23 @@
+
+{	"SampleFileName": "CensusIncomeData_04072023_110000.csv",
+	"LengthOfDateStampInFile": 9,
+	"LengthOfTimeStampInFile": 6,
+	"NumberColumns" : 14,
+	"ColName": {
+		"age" : "Integer",
+		"workclass": "varchar",
+		"fnlwgt": "Integer",
+		"occupation": "varchar",
+		"relationship": "varchar",
+		"education": "Integer",
+		"education_num": "varchar",
+		"marital_status": "varchar",
+		"race": "varchar",
+		"sex": "varchar",
+		"capital_gain": "Integer",
+		"capital_loss": "Integer",
+		"hours_per_week": "Integer",
+		"country": "varchar",
+		"salary": "varchar"
+	}
+}
